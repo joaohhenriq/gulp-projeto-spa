@@ -1,3 +1,4 @@
+// parte do build específico para as dependências do projeto
 const gulp = require('gulp')
 const uglifycss = require('gulp-uglifycss')
 const concat = require('gulp-concat')
